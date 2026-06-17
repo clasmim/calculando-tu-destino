@@ -1,0 +1,448 @@
+﻿Country,Region,Education,Jobs,Income,Safety,Health,Environment,Civic engagement,Accessiblity to services,Housing,Community,Life satisfaction
+Australia,New South Wales,8.5,8.2,5.7,9.8,9.5,7.6,10,5.4,7.9,8.9,8.5
+Australia,Victoria,8.5,8.4,4.6,9.8,9.9,8.3,10,5.5,9.6,8.9,8.8
+Australia,Queensland,8.2,8.3,5,9.8,9.2,9.3,10,5.3,7.9,7.1,8.1
+Australia,South Australia,7.6,8.1,5.3,9.9,9.1,9.6,10,4.9,7.9,8.4,8.5
+Australia,Western Australia,8.2,8.9,5.9,9.8,9.6,8.5,10,5.2,9.6,7.6,8.5
+Australia,Tasmania,7.2,8.1,4.9,9.9,8.3,9,10,4.8,9.6,9.4,8.8
+Australia,Northern Territory,8.1,8.5,7.2,9.7,6.3,8.8,10,5.5,9.6,6,6.2
+Australia,Australian Capital Territory,9.4,9.3,10,9.8,9.9,8.2,7.7,5.9,9.6,9.1,8.8
+Austria,Burgenland,8.7,7.9,4.7,9.8,7.4,6.9,8.5,5.7,5.9,5.5,6.2
+Austria,Lower Austria,8.7,8.3,4.8,9.9,7.1,7,8.3,5.6,5.7,7.9,8.8
+Austria,Vienna,8.1,4.9,4.2,9.9,6.5,6.3,6.4,7.1,4.1,6.3,8.1
+Austria,Carinthia,9.1,7.6,4.4,9.9,7.5,7.4,6.4,5.3,6,7.6,9.2
+Austria,Styria,8.7,8.3,4.5,9.9,7.4,6.5,7,5.3,5.6,5.7,8.5
+Austria,Upper Austria,8.5,9,4.6,9.9,7.6,7.2,7.6,5.4,5.7,8.2,8.8
+Austria,Salzburg,8.9,8.6,4.6,9.8,8.2,7.8,7.4,5.4,4.8,7.7,8.8
+Austria,Tyrol,8.5,8.4,4.5,9.9,8.6,7.9,6.3,5.5,4.8,8.4,9.2
+Austria,Vorarlberg,8,8.9,4.8,9.9,8.6,7.8,5.4,5.9,5.2,6,8.8
+Belgium,Brussels Capital Region,6.9,3.4,3.7,9.5,6.1,6.1,8.9,6.8,3.4,4.3,6.2
+Belgium,Flemish Region,8.2,8,4.4,9.8,8.3,6.8,10,7.5,6.8,7.2,7.3
+Belgium,Walloon Region,7.3,4.9,3.7,9.5,5.3,7.4,9.7,6.1,7.9,7.5,6.9
+Canada,Newfoundland and Labrador,9,4.4,4.2,9.6,6.1,10,5.5,8.3,10,8,6.9
+Canada,Prince Edward Island,9.4,6.9,3.9,10,7.8,10,8.6,7.2,10,10,10
+Canada,Nova Scotia,9.5,6.9,4,9.4,6.7,10,7.7,8.2,10,8.6,8.1
+Canada,New Brunswick,9.2,6.7,3.9,9.6,7,10,8.2,8.2,10,8.9,8.5
+Canada,Quebec,9.2,8.2,4,9.8,8.7,8.7,7.3,7.5,9.1,8.2,8.8
+Canada,Ontario,9.9,7.1,4.6,9.5,8.3,9.1,7.5,8.4,8.6,7.6,7.7
+Canada,Manitoba,9.4,7.9,4,8.8,5.9,10,7,7.4,8.1,8.1,8.1
+Canada,Saskatchewan,9.4,8,4.4,8.4,6.1,9.5,8.4,6.7,9.8,8.7,8.1
+Canada,Alberta,9.7,7.1,5.1,9.3,7.4,9.4,8.2,8.7,8.7,6.8,8.5
+Canada,British Columbia,9.9,7.9,5.1,9.4,8.4,9.7,7.3,9.3,8.6,8.5,8.1
+Canada,Yukon,9.5,..,6.3,7.5,5.1,10,6.9,2.5,8.6,..,..
+Canada,Northwest Territories,8.2,..,6.1,9.4,2.9,9.4,3.9,2.7,7.8,..,..
+Canada,Nunavut,4.7,..,4.6,8.6,0,10,2.1,0,2.1,..,..
+Chile,Tarapacá,6.7,4.8,0.9,7.5,8.4,5.5,0,7.8,2.8,7.6,7.7
+Chile,Antofagasta,7.3,4.7,1,9.5,6.9,6,0,8.9,1.9,7.7,3.8
+Chile,Atacama,5.8,4.7,0.7,9.4,8.5,4.8,0,7.2,1.9,4.3,6.2
+Chile,Coquimbo,5.6,3.8,0.5,9.6,9.1,5.1,0.2,6.9,2.6,4.6,4.6
+Chile,Valparaíso,6.6,4.5,0.8,9.1,8.7,4.1,0.8,8.3,1.9,6.8,5.8
+Chile,O'Higgins,5.1,4.3,0.6,9.2,8.7,0.1,0.9,6.8,2.1,6.7,4.6
+Chile,Maule,4,4.8,0.5,9.2,8.6,0,1,6.4,2.6,3.8,3.8
+Chile,Biobío,5.6,4.2,0.6,8.7,8.5,1.5,0.8,7.8,1.4,4.4,4.6
+Chile,Araucanía,4.3,4,0.6,9.4,8,0,0.1,7.3,1.2,4.6,4.6
+Chile,Los Lagos,4.4,5.3,0.8,9.3,8.1,0,0,6.8,1.1,7.3,2.7
+Chile,Aysén,5.2,7.7,1.6,9.8,8.6,0,0,7.1,1.3,0,0
+Chile,Magallanes and Chilean Antarctica,6.7,7,1.4,9.7,7.6,9.1,0,8.7,0.7,3.6,6.5
+Chile,Santiago Metropolitan,7.2,4.9,1.2,9.2,8.8,0,1.1,8.8,2.6,5.9,4.6
+Chile,Los Ríos,4.8,4.4,0.6,9.2,7.9,0,0.5,6.3,2.8,6.2,3.8
+Chile,Arica y Parinacota,7,5.3,0.1,8.1,8.4,5.7,0,7.6,3.6,7.1,6.2
+Chile,Ñuble,4,4.6,..,9,8.4,0,..,8.4,1.3,9.8,5.8
+Colombia,Antioquia,4,2.5,1.2,2.3,5.1,3.9,2.2,2.8,1,5.4,5
+Colombia,Atlántico,5.7,3.7,0.8,2.8,4.2,6,3.9,2.8,0,7.6,2.7
+Colombia,Bogotá Capital District,6.6,2.5,1.7,6.1,6.7,5.1,2.5,4.2,1.5,4,5
+Colombia,Bolívar,3.4,3.9,0.4,4.8,4.7,6.3,4.3,1,0,4,3.5
+Colombia,Boyacá,2.9,2.6,0.5,8.2,6.8,4.8,6.3,0.5,1.5,6.1,1.5
+Colombia,Caldas,3.3,1.4,0.7,5.6,6.5,4.5,3.7,2.3,1.6,0.5,4.6
+Colombia,Caquetá,1.8,3,0.3,1.2,2.3,6.3,3.1,0,0.8,4.2,2.3
+Colombia,Cauca,1.4,2.1,0.2,0,5.6,7.6,3.9,0.3,0.9,5.5,0
+Colombia,Cesar,3.3,0.9,0.2,4,4.1,4.9,5.2,1,0,2.7,1.9
+Colombia,Córdoba,2,1.5,0.2,6.1,5.1,5,6.4,0.8,0,5.5,0
+Colombia,Cundinamarca,4.2,2.1,0.8,6.8,6.9,5,4.9,2.5,0.9,3,3.5
+Colombia,Chocó,1.8,2.2,0,0,5,5.6,4.6,0,0.7,7.2,0
+Colombia,Huila,2.2,4,0.4,2.4,3.9,6.7,5,0.6,1,2.9,3.1
+Colombia,La Guajira,2.8,5,0.1,5.1,4.4,6.2,3.9,0.4,0,0.8,0
+Colombia,Magdalena,3.4,1.9,0.3,3.1,4.1,5.8,4.9,0.8,0,6.2,1.9
+Colombia,Meta,3.3,0.3,0.7,2.7,4.1,4.7,5.6,1.7,1.2,1.6,1.5
+Colombia,Nariño,1.6,6.8,0.4,4.2,6,7.9,5,0.6,0.3,0.7,0
+Colombia,Norte de Santander,2.6,0,0.3,0,3.2,4.3,3.6,1.6,0.6,2.7,2.7
+Colombia,Quindio,4.1,0.8,0.8,1.7,4,5.5,2.2,2.6,2.3,3.5,4.6
+Colombia,Risaralda,3.4,3.1,0.7,3.6,5,5.1,2.6,2.2,1.6,3.7,4.6
+Colombia,Santander,4.3,2.4,1,6,6.2,4.5,5.1,2.5,1.3,6.6,3.8
+Colombia,Sucre,2.3,1.5,0.4,3.6,5.1,5.2,6.6,0.6,0,5.2,0
+Colombia,Tolima,2.5,1.1,0.5,2.9,5.3,5.2,3.8,1,1.2,1.8,3.5
+Colombia,Valle del Cauca,4.5,2.5,1.1,0,4.2,7,2.1,2.8,1.6,3,5
+Colombia,Arauca,..,..,..,0,4.1,4.4,4.1,0,0.8,2,2.7
+Colombia,Casanare,..,..,..,4.8,5.1,4.7,7.2,0.2,0.7,8.1,1.9
+Colombia,Putumayo,..,..,..,0,3.9,7.1,4.2,0,0.8,0.5,2.7
+Colombia,San Andrés,..,..,..,0,4.4,7,2.3,0,0.8,9.8,8.1
+Colombia,Amazonas,..,..,..,2.6,2,6.1,3.8,0,0.3,10,10
+Colombia,Guainía,..,..,..,0,3.7,4.9,5.8,0,0,10,3.8
+Colombia,Guaviare,..,..,..,0,4.5,4.8,4.9,0,0.9,10,10
+Colombia,Vaupés,..,..,..,8.3,4.9,4.9,4.4,0,0,..,..
+Colombia,Vichada,..,..,..,7,5,5.1,3.8,0,0,..,..
+Costa Rica,Central ,1.7,1.9,1.5,7.6,9.5,5.4,5.9,5.1,0.9,7.1,8.8
+Costa Rica,Chorotega,0.6,0.9,0.7,7.9,8.9,4.7,3.4,3.8,0.5,6.6,7.7
+Costa Rica,Central Pacific,0.6,3,0.7,1.4,10,5.2,3.3,4,0.4,5.9,6.5
+Costa Rica,Brunca,0,0.6,0.6,..,10,6,3.2,4.1,1,6.4,7.3
+Costa Rica,Huetar Caribbean,0,2.4,0.6,2.1,10,5.8,3,3.2,0.3,5.8,7.3
+Costa Rica,North Huetar ,0,1.3,0.4,..,10,5,4.8,2.9,0.3,3.7,7.7
+Czech Republic,Prague,10,9.6,4.1,9.7,5.6,5.5,5.3,6.9,2.9,7.7,6.5
+Czech Republic,Central Bohemian Region,10,9.3,3.2,9.7,3.6,6,4.4,5.1,3.4,7.5,7.3
+Czech Republic,Southwest,9.8,9.3,2.8,9.7,3.7,6.7,3.9,5.5,4,8.3,6.9
+Czech Republic,Northwest,8.9,8.2,2.5,9.6,1.3,6.4,1.9,5.4,3.4,6.7,6.9
+Czech Republic,Northeast,10,9.1,2.7,9.8,3.7,5.9,4.2,4.9,4,8.2,7.7
+Czech Republic,Southeast,10,9.1,2.8,9.7,4.2,5.6,4.2,5.4,3.4,8.6,6.9
+Czech Republic,Central Moravia,10,8.9,2.6,9.7,3.3,4.4,3.9,5,3.4,8.1,7.7
+Czech Republic,Moravia-Silesia,9.8,8,2.6,9.7,2,2.3,2.7,5.4,2.9,8.3,8.8
+Denmark,Capital City Region,8.6,8.4,3.7,9.8,7.4,7.9,9.3,9.5,4.6,8.9,10
+Denmark,Zealand,7.1,8.3,3.5,9.7,6.5,8.1,9,8.9,6.2,8.5,10
+Denmark,Southern Denmark,7.4,8.6,3.3,9.8,7.6,7.7,9,7.9,6.2,9.5,10
+Denmark,Central Jutland,8,8.5,3.4,9.8,7.8,8.1,9.4,8.8,6.2,9.1,10
+Denmark,Northern Jutland,7.4,8.3,3.3,9.8,7.4,8.4,8.9,8.1,6.8,9.2,10
+Estonia,North Estonia,9.6,8.6,2.7,9.5,5.8,9.2,5.2,6.3,3,8.1,5
+Estonia,West Estonia,8.1,7.9,2,9.8,4.7,9.2,4.2,4.8,5.3,7.2,3.8
+Estonia,Southern Estonia,8.3,7.7,2,10,4.8,9.4,4.5,5.2,4.9,8.4,5
+Estonia,Central Estonia,7.7,7.7,2.2,9.8,4,9.9,3.9,4.7,5.1,0,4.2
+Estonia,Northeast Estonia,9.5,4.8,1.7,8.4,2.3,9.9,1,4.7,2.8,0,3.1
+Finland,Western Finland,9.3,7.1,3.4,9.9,8.2,10,5.5,7.2,6,8.6,10
+Finland,Helsinki-Uusimaa,8.8,7.6,4.2,9.9,8.2,9.7,5.5,7.7,5.1,9.7,10
+Finland,Southern Finland,8.9,7.2,3.6,9.9,7.7,10,5.3,7.1,6.8,9.3,10
+Finland,Eastern and Northern Finland,9.2,6.8,3.4,9.9,7.4,10,4.7,7,6.2,9.7,10
+Finland,Åland,8.4,10,4.1,9.1,9.4,10,0.8,4.8,7.4,6.1,9.6
+France,Île-de-France,8,6.7,4.7,9.6,9,6.9,8.1,9.6,3.1,7.2,6.9
+France,Centre - Val de Loire,7.7,6.9,4,9.8,8.3,8.1,8.2,8.2,5.8,6.3,5.8
+France,Bourgogne-Franche-Comté,7.8,6.7,3.9,9.8,7.9,8.3,8,7.2,6.1,8.5,6.5
+France,Normandy,7.8,6.7,3.9,9.8,7.6,7.9,8.4,7.6,5.6,8.4,6.5
+France,Hauts-de-France,7.4,5.3,3.5,9.7,6.5,7.2,7.8,9.1,5.4,8.5,5.8
+France,Grand Est,7.6,6.1,3.8,9.8,7.5,7.9,7.9,8.4,5.8,7.8,5.8
+France,Pays de la Loire,8.5,7.4,3.8,9.8,8.9,8.5,8.9,7.8,5.7,7.9,5
+France,Brittany,8.7,7.4,3.8,9.8,8.3,8.7,9,6.5,6.5,9.2,7.3
+France,Nouvelle-Aquitaine,8.4,6.7,3.8,9.7,8.7,8.3,8.3,7.3,6.2,8,6.9
+France,Occitanie,8.1,5.9,3.6,9.7,8.9,8,8.4,7.7,5.6,7.8,6.2
+France,Auvergne-Rhône-Alpes,8.4,6.9,4,9.8,8.8,7.8,8,8,5.2,9.1,6.9
+France,Provence-Alpes-Côte d’Azur,7.7,6,4,9.5,8.5,6.9,7.9,8.2,4.2,8.7,6.5
+France,Corsica,6.3,5.2,3.6,8.8,9.5,7.7,5.5,5.7,4.5,10,8.5
+France,Guadeloupe,4.7,1.1,3.1,8.2,6.4,8.3,0,5.1,4.4,..,..
+France,Martinique,6,3.1,3.6,8.6,6.8,7.4,0,5.2,4.3,..,..
+France,French Guiana,2.2,1.3,1.9,7.4,5.7,5.2,0,5.6,0.5,..,..
+France,La Réunion,4.4,0.4,3.2,9.5,7.6,9.5,3.4,8.5,3.4,..,..
+France,Mayotte,..,0,0.8,8.9,0,8.3,0,0,..,..,..
+Germany,Baden-Württemberg,8,9.5,5.1,9.8,8,7.6,7.7,6.6,4.6,5.3,8.5
+Germany,Bavaria,8.8,9.8,5.2,9.8,7.5,7.5,8.1,6.6,4.6,5.2,7.7
+Germany,Berlin,8.6,8,4.1,9.7,7.1,5.8,7.1,7.2,5.1,8,7.3
+Germany,Brandenburg,9.5,9.4,4.1,9.9,6.7,7,7.2,5.7,5.7,6.9,8.1
+Germany,Bremen,7.2,7.5,4.2,9.7,6.2,6.4,6.3,6.4,5.1,7.3,4.6
+Germany,Hamburg,8.4,8.7,5.1,9.7,7.3,7.1,7.7,7.2,5.1,3.9,8.8
+Germany,Hesse,7.8,8.6,4.8,9.7,7.3,7.7,7.3,6.9,4.6,7.1,6.2
+Germany,Mecklenburg-Vorpommern,9.4,9.1,3.9,9.8,6.5,7.7,6.2,5.2,6.2,8.5,7.7
+Germany,Lower Saxony,7.9,9.1,4.4,9.8,6.7,7.6,7,6.4,5.1,6.8,8.8
+Germany,North Rhine-Westphalia,7.7,8.3,4.5,9.9,6.7,6.9,7.4,6.8,5.1,6,8.5
+Germany,Rhineland-Palatinate,8,8.9,4.6,9.9,7,8.1,7.5,6.5,5.1,7.2,8.1
+Germany,Saarland,8,8.8,4.1,9.7,6.2,8,7.6,5.7,5.1,9.9,8.1
+Germany,Saxony,9.9,9.4,4,9.8,6.8,7.2,7.4,5.9,6.2,6.4,6.9
+Germany,Saxony-Anhalt,9.5,8.7,3.9,9.5,5.7,7.3,5.4,4.9,6.8,5.3,7.7
+Germany,Schleswig-Holstein,8.7,9.2,4.6,9.8,7,7.7,7.7,7,5.7,4.1,8.5
+Germany,Thuringia,9.7,9.4,3.9,9.8,6.5,7.6,7,5.2,6.2,9.3,8.1
+Greece,Attica,9,4.1,2.8,9.8,6.4,4.6,3.6,4.9,2.3,2.6,2.7
+Greece,North Aegean,6.9,3.2,2,9.8,8.5,8.3,0.7,3.9,2.3,3.4,3.1
+Greece,South Aegean,6.6,0.9,3.1,9.8,8.1,6.5,2.4,3.9,1.7,7.4,5
+Greece,Crete,6.4,2.1,2.2,9.5,7.9,4.7,4.6,3.8,2.3,5.3,3.5
+Greece,"Eastern Macedonia, Thrace",5.4,1,2,9.9,5.8,6.6,2,3.9,1.7,0.1,3.1
+Greece,Central Macedonia,7.6,1.7,2.2,9.9,6,5.3,3.2,4,2.3,4.4,2.7
+Greece,Western Macedonia,6.9,0.7,2.4,10,7.1,4.1,1.5,3.8,1.7,3.2,0.8
+Greece,Epirus,6.6,1.5,2.2,10,9.1,5.5,3.2,3.7,2.3,6.1,3.1
+Greece,Thessaly,7.2,1.8,2.1,9.9,6.8,5.4,3.9,3.9,1.7,0,1.2
+Greece,Ionian Islands,5.8,3,3.2,9.9,6.9,6.5,1.4,3.8,2.9,3.6,2.7
+Greece,Western Greece,5.4,1.3,1.9,9.9,6.9,5.8,3.3,3.9,1.7,5.1,3.1
+Greece,Central Greece,6.1,1.7,1.9,9.9,7.5,6.2,4,3.8,2.3,0,1.5
+Greece,Peloponnese,6.4,4,2.1,9.9,7.5,5.9,2.1,3.8,2.9,4.3,2.7
+Hungary,Budapest,10,9.5,4,9.8,3.3,4.7,7.1,9.3,4,7,4.2
+Hungary,Pest,9.2,9.2,2.3,9.7,1.4,5.7,6.3,8.5,3.4,7,4.2
+Hungary,Central Transdanubia,8.6,9.3,2.4,9.8,0.5,6.3,6.1,8.2,4,9.5,4.6
+Hungary,Western Transdanubia,8.9,9.4,2.3,9.9,1.4,6,6.6,7.7,3.4,9.4,5.4
+Hungary,Southern Transdanubia,7.8,7.3,2,9.9,0.6,5.1,5.4,7.1,4.6,8.9,2.3
+Hungary,Northern Hungary,7.2,6.9,1.7,9.6,0,4.5,5.3,7.8,4,7.3,3.8
+Hungary,Northern Great Plain,7.4,6.8,1.8,9.9,0.2,5.8,5.1,7.7,3.4,6.1,3.1
+Hungary,Southern Great Plain,8.6,8.2,2.1,9.9,0.5,5.7,5.5,7,4,9.5,4.6
+Iceland,Greater Reykjavík,..,8.8,3.7,9.6,8.4,9.6,5.2,9.4,..,9.9,9.6
+Iceland,Other regions,..,8.9,3.2,10,8.2,10,5.3,8.7,..,10,10
+Ireland,Northern and Western,8.5,7.5,3.2,10,8.6,9.2,4.4,6.4,7.9,7.8,8.1
+Ireland,Southern,8.6,6.8,3.7,9.9,8.3,8.2,4.5,6.5,7.9,8.4,7.7
+Ireland,Eastern and Midland,9,7.4,4.1,9.8,8.3,8.4,4,7.7,6.2,7.7,8.1
+Israel,Jerusalem district,6.6,5.3,1.1,9.8,9.2,0.3,4.8,5,0,9,9.2
+Israel,Northern district,6.3,6.3,1.3,9.5,7.7,5.8,3.5,5.9,0.8,4.7,6.5
+Israel,Haifa district,7.6,7.1,2.1,..,8.4,4.9,3.7,7.2,2.1,7.8,7.7
+Israel,Central district,8.1,8.5,2.5,9.5,9.6,2.3,5.9,7.7,2.2,8.9,9.6
+Israel,Tel Aviv district,8.6,8.2,3,9.7,9.2,2.4,4.9,7.8,2.3,9.3,9.6
+Israel,Southern district,7.1,7,1.5,9.7,7.6,3.3,3.9,6.7,1.5,6.8,7.3
+Italy,Piedmont,4.9,6.2,4,9.8,8.3,3.7,7.1,6.5,2.9,5.1,3.8
+Italy,Aosta Valley,4.6,6.4,3.9,10,8.2,7.3,6.4,5.4,2.3,4.9,7.3
+Italy,Liguria,5.7,5.6,4,9.9,8.5,7.1,6.4,6.8,3.4,7.5,5.8
+Italy,Lombardy,5,6.8,4.4,9.9,9,2.7,7.5,6.6,2.3,5.6,6.5
+Italy,Abruzzo,5.6,4.4,3,10,8.1,6.3,7.1,6.1,2.9,4.5,5.4
+Italy,Molise,4.7,3.1,2.7,10,6.9,7.5,6.3,5.6,2.9,10,6.5
+Italy,Campania,3.1,0,2.4,9.8,6.5,6,5.5,6.2,2.3,4.6,5
+Italy,Apulia,2.9,1.3,2.6,9.9,7.6,6.8,5.7,5.9,2.3,7,5.8
+Italy,Basilicata,4.8,3.9,2.6,9.9,7.9,8.1,6.2,5.7,2.3,4,5.8
+Italy,Calabria,3.5,0.2,2.4,9.8,7.2,7.3,4.5,5.1,3.4,5,3.5
+Italy,Sicily,3,0,2.5,9.8,6.7,7.6,4.3,5.8,2.9,6.2,5
+Italy,Sardinia,3.3,2.5,2.8,9.9,8.5,8.4,4.9,6.1,4,7.1,3.5
+Italy,Province of Bolzano-Bozen,5.8,8.1,4.8,9.9,9.1,7.8,5.7,5.2,2.3,6.9,6.5
+Italy,Province of Trento,6,7.3,3.9,10,9.5,6.4,8,5.9,2.3,6.9,6.5
+Italy,Veneto,5.1,6.9,3.8,9.9,9,3,7.9,5.8,2.9,6.3,5
+Italy,Friuli-Venezia Giulia,6,7,4.1,10,7.9,6.2,7.1,5.9,4,8.4,4.6
+Italy,Emilia-Romagna,5.7,7.3,4.3,9.9,8.7,4.8,7.8,6.7,3.4,7.7,6.5
+Italy,Tuscany,5.1,6.2,3.8,9.9,8.9,6.4,7.6,5.9,3.4,5,5
+Italy,Umbria,6.1,6.3,3.5,10,8.8,6.7,7.8,5.9,2.9,7.5,8.5
+Italy,Marche,5.2,6.1,3.6,9.9,8.7,6.6,7.6,5.3,2.9,7.2,7.7
+Italy,Lazio,6.1,4.5,3.7,9.9,8.5,5.4,6.5,6.6,2.3,6.5,5.8
+Japan,Hokkaido,..,9.1,3.6,9.9,9.8,7,3.4,5.1,5.7,3.7,3.5
+Japan,Tohoku,..,9.5,3.5,9.9,9.5,7.3,3.3,4.9,6.4,6.8,3.1
+Japan,"Northern-Kanto, Koshin",..,9.5,3.9,9.9,9.7,6.5,2.7,6.7,6.1,4.9,3.8
+Japan,Southern-Kanto,..,9.4,4.5,9.8,10,5.5,2.6,7.7,4.6,5.5,4.2
+Japan,Hokuriku,..,10,3.9,9.9,9.9,6.8,3.3,6.3,7,6.2,5
+Japan,Toukai,..,9.9,4.1,9.8,9.9,6.3,2.8,6.7,5.8,7,3.8
+Japan,Kansai,..,9.1,3.7,9.8,10,6.1,3,6.7,5.7,5.4,3.8
+Japan,Chugoku,..,9.7,3.7,9.8,9.9,6.5,2.4,4.9,6.5,6,3.5
+Japan,Shikoku,..,9.3,3.4,9.9,9.7,6.5,2.7,4.8,7,5.4,1.9
+Japan,"Kyushu, Okinawa",..,9.2,3.3,9.8,9.9,5.3,2.7,4.7,5.3,7.4,3.1
+Korea,Seoul Capital Area,10,7.3,3.7,9.7,10,0,4.9,9.5,3.6,2.9,3.8
+Korea,Gyeongnam,9.6,7,3.4,9.6,9,0.7,5.5,8.7,4.2,0.5,2.3
+Korea,Gyeongbuk,9.5,7.2,3.3,9.8,9.1,0,5.2,8.8,4.4,0.7,2.7
+Korea,Jeolla,9.5,7.7,3.4,9.8,9.2,0,5.2,8.9,4.4,0.6,3.5
+Korea,Chungcheong,9.6,7.9,3.4,9.8,9.5,0,3.3,9.1,4.3,1.3,3.5
+Korea,Gangwon,9.3,7.5,3.3,9.8,9.1,0,5,9,4.7,2.9,3.1
+Korea,Jeju,9.9,8.2,3.3,9.5,10,2.2,4.3,8.6,4.1,5.1,4.6
+Latvia,Kurzeme,8.6,5.7,1.6,9.5,0.3,7.4,2.8,5.8,1.7,6.7,3.1
+Latvia,Latgale,9.1,5.6,1.2,9.2,0,7.1,0,5.4,1.7,6.6,3.8
+Latvia,Riga,10,7.6,2.6,9,1.3,3.9,2.2,8,1.2,5.9,4.6
+Latvia,Pieriga,9.3,7.5,2.2,9.1,1.9,7.1,4.7,5.8,1.7,7.3,4.6
+Latvia,Vidzeme,8.9,6,1.4,9.6,0.4,8.2,3.9,5,1.7,8.2,3.8
+Latvia,Zemgale,8.7,6.4,1.8,9.2,0,7.5,2.5,5.2,2.3,8,3.5
+Lithuania,Vilnius county,10,..,3.5,9.2,1.1,7.5,1.5,6.8,3.5,6.3,5.8
+Lithuania,Alytus county,10,6.4,2.7,8.6,0,7.5,0.5,5.6,4.3,5.4,3.8
+Lithuania,Kaunas county,10,7.6,3.1,9.3,1.4,7.7,1,6.8,4.2,5,5
+Lithuania,Klaipeda county,10,7.4,3.1,9.8,1.2,8,0,6.2,3.6,6.1,5.8
+Lithuania,Marijampole county,9.3,5.5,2.1,9.6,0.2,8,0.2,4.9,5.1,4.5,6.5
+Lithuania,Panevežys county,9.5,5.6,2.2,9.5,0.4,8.1,0.7,6.1,4.4,5.6,4.6
+Lithuania,Šiauliai county,9.5,7,2.6,9.3,0.4,8.2,0.3,5.5,3.1,6.6,5.4
+Lithuania,Taurage county,8.9,5.8,2.6,8.8,0.2,8.4,0,4.7,5,6.1,6.2
+Lithuania,Telšiai county,9.5,6.3,2.5,9.4,0.8,8.7,0,5.8,3.5,4.2,4.2
+Lithuania,Utena county,9.2,4.1,2.2,9.6,0,8.3,0.3,5.2,6,4.2,5.8
+Luxembourg,Luxembourg,7.6,7.5,6.3,9.9,8.2,8.2,10,8.6,6.2,6.8,8.5
+Mexico,Aguascalientes,1.7,5.9,0.2,8.4,3,5.6,1.5,4.2,1.3,1.1,3.1
+Mexico,Baja California,1.6,6.8,0.4,0,2.4,4.3,0,4.9,1.2,5.2,7.7
+Mexico,Baja California Sur,2.2,7.1,0.3,7.6,3,7.1,1.4,4.5,0.5,0.2,3.1
+Mexico,Campeche,1.3,6.8,0,8.1,2.4,4.7,4.4,3.6,0,6.2,5
+Mexico,Coahuila,1.4,5.9,0.2,8,2.6,5.8,3.2,4.2,1.7,0,6.5
+Mexico,Colima,1.8,7.8,0.3,0,2.2,6.4,2.2,4.1,0.8,2.7,6.2
+Mexico,Chiapas,0,5.8,0,7.4,1.5,3.5,4,1.2,0,0,3.1
+Mexico,Chihuahua,1.2,7.4,0.3,0,1.9,5.9,0.7,4.2,2,1.5,6.9
+Mexico,City of Mexico,4.4,3.8,0.3,6.1,3.2,3.9,1.9,5.3,2,4.1,7.7
+Mexico,Durango,0.6,6.5,0,7.9,2.9,6,0,3.4,1.2,3.9,5.4
+Mexico,Guanajuato,0,5.4,0,0,2,5.4,0.1,3.4,0.5,1.3,3.5
+Mexico,Guerrero,0,7.3,0,0,2.5,6,3.2,2.5,0,2.2,3.8
+Mexico,Hidalgo,0.5,6.2,0,6.8,2.8,4.5,0.7,2.9,1.1,4.2,3.5
+Mexico,Jalisco,1.5,6.9,0.1,3,2.4,6.1,1,4.4,1,2.5,5.4
+Mexico,Mexico,1.6,5.2,0,5.1,2.9,3.9,2.4,4.4,0.9,4.1,5.4
+Mexico,Michoacan,0,6.6,0,0,2.5,5.9,1.3,2.8,0.5,0,4.2
+Mexico,Morelos,1.5,6.7,0,0,2.2,5.1,2.1,4.1,0.8,2.6,4.6
+Mexico,Nayarit,1.3,9.5,0.1,6,2.8,6.8,2.2,3.6,1,4.4,6.5
+Mexico,Nuevo Leon,1.6,5.9,0.4,5.7,3.2,5.5,1.7,4.8,1.6,3.1,6.5
+Mexico,Oaxaca,0,7.3,0,4.4,2,5.2,2.9,1.9,0,5.5,2.7
+Mexico,Puebla,0.5,6.2,0,6.1,1.7,4.7,2.8,3.1,0.4,0.2,3.1
+Mexico,Queretaro,2.3,4,0.2,7.4,2.5,4.9,1.9,4.2,1.1,2.9,5
+Mexico,Quintana Roo,2.1,4.6,0,0.9,2.3,5.6,0.1,4.3,0,2.4,1.9
+Mexico,San Luis Potosi,0.7,6.6,0,2.4,2.5,5.1,3.4,3.6,1.1,1.3,2.3
+Mexico,Sinaloa,2.3,6.4,0.2,2.3,3,6.6,1.2,4.1,0.8,2.9,5
+Mexico,Sonora,2,6.6,0.3,0,2.4,5.9,0,4.5,1.3,7.6,7.3
+Mexico,Tabasco,1.5,4.5,0,3.5,2.1,3.8,2.2,2.9,0.1,2.5,5
+Mexico,Tamaulipas,1.7,7.1,0.1,4,2.9,5.4,2,4.1,1.2,4,5.4
+Mexico,Tlaxcala,1,5.7,0,6.9,2.7,4.4,5.1,3.4,0.6,2.6,2.3
+Mexico,Veracruz,0.5,5.8,0,6.2,1.9,4.7,3.7,3,0.7,1.7,2.3
+Mexico,Yucatan,1.2,7.3,0,9.2,2.1,5.5,4.5,4.1,0.3,3.9,6.2
+Mexico,Zacatecas,0,6.6,0,0,2.6,6,3,3.1,1.2,2.8,5
+Netherlands,Groningen,7.6,8.6,3.5,9.8,6.7,7.7,8.5,8,7.4,7.6,9.2
+Netherlands,Friesland,7.2,9.3,3.5,9.9,7.5,7.8,8.7,7.9,7.4,5.8,9.6
+Netherlands,Drenthe,7.6,9.6,3.6,9.9,7.2,7.7,8.7,8.2,7.4,10,10
+Netherlands,Overijssel,7.5,9.6,3.5,9.8,7,7.4,9,8.3,6.8,6.9,9.2
+Netherlands,Gelderland,7.7,9.6,3.7,9.9,7.2,6.9,8.9,8.2,6.8,9.2,9.2
+Netherlands,Flevoland,7.2,9.2,3.6,9.6,7.2,7.4,8.1,8.9,6.8,7.8,9.2
+Netherlands,Utrecht,8.3,9.5,4.2,9.8,7.6,6.8,9.2,8.5,6.2,8.9,9.6
+Netherlands,North Holland,7.8,9.4,4.1,9.7,7.4,7,8.6,8.5,6.2,8.6,9.2
+Netherlands,South Holland,7.5,9,3.7,9.7,7.2,6.9,8.2,8.3,6.2,8.1,9.2
+Netherlands,Zeeland,7.3,9.6,3.6,9.8,7.6,7,8.5,8,6.2,8,9.6
+Netherlands,North Brabant,7.6,9.8,3.8,9.8,7.1,7,8.5,8.4,7.9,8.4,9.2
+Netherlands,Limburg,7.5,9.2,3.6,9.8,6.7,7.3,7.8,8,7.9,8.3,8.8
+New Zealand,Northland,6.4,7.7,2.5,9.7,6.2,9.7,7.7,4.3,7.9,8.7,7.7
+New Zealand,Auckland,8.2,8.4,3.9,9.7,8.8,9.3,7.2,7.4,6.2,8.6,8.1
+New Zealand,Waikato,7.5,8.7,3.3,9.8,7.7,9.6,7.9,5.8,7.9,9.4,8.5
+New Zealand,Bay of Plenty,7.8,8.8,3.2,9.8,7.6,9.4,7.9,5.5,7.9,9.5,8.8
+New Zealand,Gisborne,6.5,8.4,3,9.5,3.3,9.2,8.5,5.1,7.4,10,8.5
+New Zealand,Hawke's Bay,..,..,..,10,6.8,9.2,7.2,5.2,7.9,8.5,8.5
+New Zealand,Taranaki,7.3,9.3,3.2,9.8,6.9,9.2,7.2,5.4,8.5,6.9,9.6
+New Zealand,Manawatu-Wanganui,7.2,8.6,3.1,10,5.9,9.6,8.4,5.1,8.5,8.6,9.2
+New Zealand,Wellington,8.6,9.5,4.3,9.9,8,9.8,9,7.7,7.4,9.1,8.8
+New Zealand,Tasman-Nelson-Marlborough,7.1,9.7,3,10,7.6,9,8.8,5.6,7.9,8.8,10
+New Zealand,West Coast,..,..,..,10,4.3,9.1,8.7,5.1,6.8,9.4,7.7
+New Zealand,Canterbury,7.4,9,3.4,9.8,8.2,8.5,8.5,6.6,7.9,9.1,9.2
+New Zealand,Otago,7.9,9.3,3.2,9.6,8.2,8.9,8.7,6,6.8,9.5,10
+New Zealand,Southland,5.5,9.7,2.6,10,6.4,8.9,8.2,5.9,7.9,9.1,10
+Norway,Innlandet,7.6,8.9,4,10,7.9,9.7,7.2,7.5,7.9,8.1,8.8
+Norway,Trøndelag,8.3,9.2,4.1,9.9,9,10,7.7,8.6,7.4,9.9,9.6
+Norway,Northern Norway,7.4,8.9,4.1,10,8.1,10,6.8,8.8,7.4,8.3,9.6
+Norway,Oslo and Viken,8,8.6,4.5,9.7,8.8,8.9,7.6,8.9,7,8.9,10
+Norway,Agder and Sør-Østlandet,7.6,8.4,4,10,8.5,9.4,7.3,8.3,8.8,8.6,9.6
+Norway,Western Norway,8.3,9.1,4.3,10,9.1,10,7.9,8.4,8.3,9.7,9.6
+Poland,Lesser Poland,9.7,8,2.7,9.8,3.2,0.5,4.5,7.6,1.2,7,4.2
+Poland,Silesia,10,8.1,3.2,9.6,1.5,0.1,4.2,7.8,1.7,4.7,3.8
+Poland,Greater Poland,10,9.1,2.9,9.7,1.9,3.9,4.3,7.8,1.2,5.1,5
+Poland,West Pomerania,9.5,7.8,2.8,9.2,1.5,6.7,3.2,8,1.7,7.1,4.6
+Poland,Lubusz,9.8,8.2,2.4,9.6,1,5.5,3,7.1,1.7,4,5
+Poland,Lower Silesia,9.8,8.2,3,9.7,1.7,4.1,3.9,7.7,1.7,8.4,4.6
+Poland,Opole region,9.9,8.7,2.6,9.6,2.3,3.1,2.1,6.4,2.3,2.3,2.7
+Poland,Kuyavian-Pomerania,9.5,7.7,2.5,9.8,1.4,5.2,3.2,7.5,1.2,5.2,3.5
+Poland,Warmian-Masuria,8.6,7.7,2.4,9.6,1.2,6.1,2.2,7.1,1.2,0,5.4
+Poland,Pomerania,9.8,8.7,2.7,9.5,2.6,6.3,4.4,7.9,1.2,6.8,4.2
+Poland,Lodzkie,9.3,8,2.9,9.6,0.7,2.4,4.4,7.2,1.7,2.1,3.1
+Poland,Swietokrzyskie,9.8,7.6,2.4,9.7,1.5,3.1,3.1,6.6,1.2,6.2,4.6
+Poland,Lublin Province,9.5,7.3,2.3,9.7,1.6,4,3.2,6.9,1.7,6.3,5
+Poland,Podkarpacia,9.8,6.6,2.1,9.7,2.8,3.1,3.3,6.4,1.2,6.5,3.1
+Poland,Podlaskie,9.4,8.3,2.3,9.7,2.1,5.4,3,6.5,1.7,8.3,5.4
+Poland,Warsaw capital region,10,9.8,4.1,9.6,3.4,4,6.8,9.3,1.7,7.3,5.4
+Poland,Mazowiecki region,9.6,7.9,2.7,9.7,0.4,4,3.5,6.7,1.2,7.3,5.4
+Portugal,North,3.3,7.1,2.5,9.9,7.5,8.4,2.9,7.2,4,6,3.5
+Portugal,Algarve,4.4,6.7,3.7,9.6,6,8.2,0.5,5.8,4,4.7,4.2
+Portugal,Central Portugal,3.6,7.4,2.7,9.8,7.1,8.4,2.2,6.4,5.7,5.8,2.7
+Portugal,Metropolitan area of Lisbon,6.3,7.2,3.5,9.8,7.1,7.9,2.8,8.3,3.4,6.4,4.2
+Portugal,Alentejo,3.7,7.3,2.8,9.8,5.8,8.8,2.1,5.8,5.1,5.5,3.8
+Portugal,Azores (autonomous region),0.9,6,2.9,10,4.1,9.7,0,7.5,4,8.5,3.8
+Portugal,Madeira (autonomous region),2.7,5.9,2.8,9.7,4.6,10,1.5,6.7,4.6,4.7,4.2
+Slovak Republic,Bratislava,10,9.7,4.6,9.5,3.4,5.8,6.6,7.8,1.2,7.6,6.2
+Slovak Republic,West Slovakia,10,8.2,2.6,9.7,1.4,5.3,5.1,5.9,1.7,7.1,5
+Slovak Republic,Central Slovakia,9.8,6.7,2.6,9.8,1.3,4.2,5.2,5.8,1.7,7.9,5
+Slovak Republic,East Slovakia,9.2,4.8,2.2,9.8,1.1,4.4,3.8,6,1.2,8.1,5
+Slovenia,Eastern Slovenia,9.2,7.6,3,9.9,5.1,5.1,1.6,6,4,8.8,5.4
+Slovenia,Western Slovenia,9.7,8.3,3.2,9.9,7.5,5.6,2.5,6.7,4,8.6,6.2
+Spain,Galicia,4.9,4.6,3.2,9.8,9.3,8.6,5.1,8.4,7.4,8.2,4.2
+Spain,Asturias,5.8,4,3.5,10,8,7.4,4.9,8.3,6.8,9.1,1.2
+Spain,Cantabria,5.7,4.7,3.4,9.8,9.2,7.9,6.1,8.7,6.8,4.1,6.5
+Spain,Basque Country,7,5.7,4.6,9.9,9.3,8.5,5.7,9.6,6.2,7.8,5.8
+Spain,Navarra,6.2,5.4,4,9.9,9.5,8.7,5.7,9.3,6.8,9.1,6.2
+Spain,La Rioja,4.9,5.3,3.5,9.8,8.5,8.4,6.2,9,6.8,10,6.2
+Spain,Aragon,5.8,5.8,3.7,9.9,8.2,8.3,6.2,8.9,6.2,8.2,6.5
+Spain,Madrid,6.7,5.5,4.4,9.9,9.1,7.8,6.9,9.9,5.7,7.5,5.8
+Spain,Castile and León,4.9,4.9,3.4,9.9,8.7,8.4,6.2,8.9,7.9,7.5,5.8
+Spain,Castile-La Mancha,3.3,3.2,2.7,9.9,7.6,7.9,6.2,9.1,6.8,3.8,4.2
+Spain,Extremadura,2.6,1.4,2.5,9.9,7.8,9.1,5.7,8.7,7.4,8.8,2.7
+Spain,Catalonia,5.2,5.3,3.9,9.8,8.4,6.7,6.4,9.5,5.7,8.4,6.2
+Spain,Valencia,4.6,3,3,9.8,8.2,7.8,6.3,8.3,6.2,8.8,6.9
+Spain,Balearic Islands,5,3.9,3.5,9.9,9.4,8.9,3.4,8.3,5.1,10,6.9
+Spain,Andalusia,3.4,1.1,2.5,9.9,7.4,6.8,5.5,8.3,5.7,7.3,5
+Spain,Murcia,3.5,3.6,2.7,9.8,8.1,7,5.9,8.2,5.7,8.6,6.5
+Spain,Canary Islands,4.6,1,2.7,9.8,9,8.7,3.8,7.5,4,6.6,5.4
+Sweden,Stockholm,9.2,7.9,4.5,9.6,9.6,9.8,9.7,9.1,3.4,8.5,9.2
+Sweden,East Middle Sweden,8.6,6.6,3.6,9.8,8.9,9.9,9.9,7.9,4.6,8.2,8.8
+Sweden,Småland with Islands,8.5,7.8,3.5,9.9,9.3,9.8,10,7.2,5.7,8.4,9.6
+Sweden,South Sweden,8.4,6,3.7,9.7,8.9,8.8,9.6,8.1,5.1,7.8,9.2
+Sweden,West Sweden,8.8,7.5,3.8,9.8,9.1,9.5,9.8,8,5.1,7.5,9.2
+Sweden,North Middle Sweden,8.3,6.6,3.6,9.8,8.4,10,9.8,7.3,5.7,8.5,8.8
+Sweden,Central Norrland,9.3,8.5,3.6,9.7,8,10,9.9,7.1,6.2,6.7,9.2
+Sweden,Upper Norrland,9.5,8,3.7,9.5,8.2,10,9.8,7,5.7,6.5,9.2
+Switzerland,Lake Geneva Region,8,7.1,10,9.8,9.3,7.9,0.2,9.6,4.6,8.6,9.6
+Switzerland,Espace Mittelland,8.8,9.4,10,9.9,8.9,8.4,0.4,9.3,5.7,7.8,9.2
+Switzerland,Northwestern Switzerland,8.9,9.2,10,9.9,9.4,7.7,0.3,9.4,5.1,8.3,9.2
+Switzerland,Zurich,9.2,9.3,10,9.9,9.4,7.8,0.3,10,5.1,8.6,10
+Switzerland,Eastern Switzerland,9,9.5,10,9.8,8.6,8.4,0,9,5.7,8.5,10
+Switzerland,Central Switzerland,9.1,9.7,10,10,9.4,8,1.3,9.4,5.7,10,10
+Switzerland,Ticino,8.2,6.8,9.6,9.9,9.6,6.2,1.4,8.7,4.6,7.3,8.1
+Türkiye,Istanbul,1.9,2.6,1.2,8.2,5.4,1.8,10,5.2,2.3,3.6,0.4
+Türkiye,Thrace,1.8,4.5,0.9,8,4.4,3,10,3.9,3.3,1.9,0.4
+Türkiye,Southern Marmara - West,1.4,4.2,0.7,7.9,4.5,2.8,10,3.7,4.1,3.7,1.9
+Türkiye,Izmir,1.7,1.8,1.1,7.7,5.1,2.2,10,4.4,3.6,3.6,0
+Türkiye,Southern Aegean,1.1,3.7,0.8,7.4,5.6,0,10,4,3.1,2.9,0
+Türkiye,Northern Aegean,0,4.6,0.5,7,3.9,0,10,4.1,3.1,1.7,0
+Türkiye,Eastern Marmara - South,1.8,3.7,0.8,8.8,4.6,0,10,4.6,2.9,5.3,1.5
+Türkiye,Eastern Marmara - North,1.1,3.6,0.6,8.3,4.7,1.1,10,4.5,2.1,5.6,1.5
+Türkiye,Ankara,3.4,2,1,8.6,5.8,2.8,10,4.8,3.7,4.6,0.8
+Türkiye,Central Anatolia - West and South,0,3.9,0.5,7.5,5.2,1.3,10,4.3,2.8,1.8,2.3
+Türkiye,Mediterranean region - West,1.7,3.1,0.8,7.2,5.8,0,9.7,4.2,3.4,3.6,0
+Türkiye,Mediterranean region - Middle,0.6,1.8,0.3,7,4.7,0.6,9.6,4.4,2.4,2.8,0
+Türkiye,Mediterranean region - East,0,0.5,0.2,8.4,5.1,0,9.7,4.1,2.1,0.8,0
+Türkiye,Central Anatolia - Middle,0.1,2,0.4,7.8,4.8,2.2,9.5,3.9,2.6,0.5,0
+Türkiye,Central Anatolia - East,0.5,2.2,0.4,8.4,5.2,1.1,10,4.2,2.2,0,0
+Türkiye,Western Black Sea - West,0.9,2.7,0.6,8.8,4.9,0.9,9.6,3.7,3.9,6.9,0.8
+Türkiye,Western Black Sea - Middle and East,0,5.6,0.6,7.5,5.3,3.8,9.3,3.6,3.2,7.7,1.5
+Türkiye,Middle Black Sea,0,4.5,0.5,7.7,5.2,3.8,9.9,3.8,2.3,5.8,1.5
+Türkiye,Eastern Black Sea,1,3.8,0.7,8.3,6.7,3.6,9.1,4.1,2.9,4.3,0.8
+Türkiye,Northeastern Anatolia - West,0.7,2.6,0.2,8.4,5.2,1.2,9.4,4.2,0.8,0,0.4
+Türkiye,Northeastern Anatolia - East,0,1.5,0,7,4.9,0.8,7.7,3.9,0,0,0
+Türkiye,Eastern Anatolia - West,1.2,2.6,0.2,8.4,6.2,1.3,9.1,4.2,2.3,0,0
+Türkiye,Eastern Anatolia - East,0,0,0,8.6,4.8,1.1,8.8,4.2,0,0,0
+Türkiye,Southeastern Anatolia - West,0,2.7,0.2,8.1,3.9,0,9.1,4.5,0.2,0,0
+Türkiye,Southeastern Anatolia - Middle,0,1.2,0,8.2,5,0,9.2,4.6,0,0,0
+Türkiye,Southeastern Anatolia - East,0,0,0,9,6.4,0,9.7,4.5,0,0,0
+United Kingdom,North East England,7.3,7.4,3.4,9.8,5.3,8.3,4.6,6.8,7.1,8.1,8.5
+United Kingdom,North West England,7.5,8.2,3.7,9.6,5.6,7.6,4.9,6.7,7,8.9,8.5
+United Kingdom,Yorkshire and The Humber,7.4,8.4,3.6,9.8,6.1,7.1,4.6,6.8,6.7,5.6,7.3
+United Kingdom,East Midlands,7.4,8.4,3.7,9.8,6.7,7.3,5.3,6.8,7,5.7,6.9
+United Kingdom,West Midlands,7.2,8.2,3.6,9.6,6.2,7.4,4.7,7.2,6.6,8.4,8.5
+United Kingdom,East of England,7.7,9.2,4.6,9.8,7.8,7.3,5.5,7,6.7,7.9,8.1
+United Kingdom,Greater London,8.9,8.2,6.4,9.7,8.1,6.8,5.3,7.6,4.8,6.4,7.3
+United Kingdom,South East England,8.2,9.2,5.1,9.9,8.1,7.5,6,7.2,6.5,8.1,7.7
+United Kingdom,South West England,8.1,9.3,4.3,9.8,8,7.9,6.4,6.6,7,6.8,7.7
+United Kingdom,Wales,7.2,8.4,3.4,9.9,6.1,8.2,5.1,6.1,7.2,6.5,7.7
+United Kingdom,Scotland,7.7,8.5,3.9,9.7,5,9.2,5.5,6.7,5.6,8.3,8.5
+United Kingdom,Northern Ireland,7.4,8.1,3.4,9.7,6.6,8.5,4,6.7,5.1,7.1,8.5
+United States,Alabama,9,7.4,6.9,7.5,1,8.5,4.4,7.8,10,7.7,8.1
+United States,Alaska,9.9,6.8,10,8.2,4.5,9.4,5.6,8,6.9,0,10
+United States,Arizona,8.8,7.8,7.2,8.1,4.9,8.8,5,7.8,7.8,10,9.6
+United States,Arkansas,9,7.8,7,7.1,1.7,8.5,2.8,7.5,9.3,7.3,10
+United States,California,8.4,6.4,10,8.5,6.7,7.3,5.6,8.4,5.5,7,6.9
+United States,Colorado,9.7,8.3,9.6,8.6,5.8,9.8,7.4,8.7,8.8,8.9,8.5
+United States,Connecticut,9.6,7.4,10,9,5.8,8.9,6.2,8.6,8.9,7.3,8.8
+United States,Delaware,9.3,8.4,8.5,8,3.3,8.7,6.1,9.1,10,1.1,10
+United States,District of Columbia,9.7,8.3,10,2.1,2.8,8.3,4.6,8.5,7.6,10,5.4
+United States,Florida,9.2,7.6,8.2,8.4,5.5,9.4,6.3,8.4,8.4,7.7,8.1
+United States,Georgia,9.1,7.9,7.5,7.6,3.3,8.4,5.5,8.4,8.8,7.4,6.5
+United States,Hawaii,9.9,6.9,9,9.3,7.2,10,3.1,8.2,5.2,0,5
+United States,Idaho,9.5,8.5,7.3,9.4,5.4,9.5,5.5,7.2,8.7,4.6,10
+United States,Illinois,9.4,7.6,9.2,7.6,4.5,7.8,5.2,8.7,8.6,6,8.8
+United States,Indiana,9.3,8.1,7.7,8,2.6,8.3,4,8,9.5,9,7.3
+United States,Iowa,9.8,9.6,8.2,9.1,4.5,8.4,6.6,7.5,10,6.8,7.3
+United States,Kansas,9.5,9.6,8.4,9.1,3.8,8.7,5,7.6,9.8,8.7,9.6
+United States,Kentucky,9.1,7,6.8,8.1,1.3,8.4,4.8,7.4,9.6,8.4,7.3
+United States,Louisiana,8.8,6.7,7.6,5.7,1.3,8.8,4.6,7.6,8.7,3.7,7.7
+United States,Maine,9.9,8.4,8,9.6,4.2,10,7.3,6.5,10,5.3,8.1
+United States,Maryland,9.5,8.3,10,7.6,4.5,8.7,6.2,8.8,9.3,8.5,8.1
+United States,Massachusetts,9.7,7.8,10,9.4,5.9,9.3,6.4,8.4,8.6,10,6.5
+United States,Michigan,9.6,7,7.7,8,3.5,8.7,6.8,7.9,10,4.7,5.8
+United States,Minnesota,9.9,8.9,9.1,9.1,6.1,9,8.2,7.8,9.9,9.3,7.7
+United States,Mississippi,8.8,6.9,6.1,7.1,0,8.8,3.7,8.3,9.1,9.8,8.8
+United States,Missouri,9.5,8.3,7.6,6.8,2.7,8.4,4.9,7.8,9.9,8.1,8.1
+United States,Montana,10,9.5,7.8,8.7,4.3,10,6.6,6,10,10,10
+United States,Nebraska,9.6,10,8.7,9.1,4.8,8.9,5.9,8,9.8,8.2,7.3
+United States,Nevada,8.6,6.2,8.1,8.5,4.1,9.2,4.9,8.3,7.2,7.2,7.3
+United States,New Hampshire,9.9,9,10,9.8,4.7,9.6,7.1,8.8,10,5.2,5.4
+United States,New Jersey,9.6,7.2,10,9.1,5.2,8.6,7.1,8.7,8.3,8.2,7.7
+United States,New Mexico,8.7,6.3,6.8,7.9,3.1,10,3.9,6.4,8.6,7.6,7.7
+United States,New York,9.1,6.4,10,8.9,5.8,8.7,4.5,8.3,7.5,7.3,6.9
+United States,North Carolina,9.2,7.5,7.4,7.8,3.8,8.9,6.2,7.9,9.4,6.3,6.5
+United States,North Dakota,10,9.4,9.2,8.9,3.9,9.9,4.7,7.4,10,8.9,8.1
+United States,Ohio,9.6,7.8,7.9,8.1,2.6,8.3,5.3,7.6,10,9,8.5
+United States,Oklahoma,9,7.7,7.5,8,1.6,8.5,2.5,7.8,8.8,8.8,9.6
+United States,Oregon,9.4,7.9,8.2,9.2,5.7,9.3,7.1,8,8.1,8.1,7.3
+United States,Pennsylvania,9.6,7.3,9.1,7.9,4,8.4,6.2,8.1,10,9.3,7.7
+United States,Rhode Island,9.4,8.3,8.9,9.2,4,9,4.8,8.9,8.9,9.2,5.4
+United States,South Carolina,9.1,8.2,7.1,7.1,2.8,8.9,4.7,8.2,9.7,6,8.1
+United States,South Dakota,9.8,10,8.8,8.8,3.5,9.4,5,7.3,10,10,3.1
+United States,Tennessee,9.2,7.9,7.8,7.4,1.5,8.7,3.6,8.3,9.4,7.7,7.7
+United States,Texas,8.5,7.2,8.4,8.2,4.2,8.6,3.7,8.4,6.8,7,7.3
+United States,Utah,9.7,9,7.6,9.2,5.6,9,5.7,8.5,7.1,9.7,6.9
+United States,Vermont,9.8,8.9,8.8,9.4,5,9.7,6.9,6.8,10,10,7.7
+United States,Virginia,9.5,8.3,9.3,8.4,5.1,9.1,6.6,8.5,9.4,8.3,6.2
+United States,Washington,9.5,7.6,10,9,6.1,9.4,7.2,8,8.1,7.3,8.1
+United States,West Virginia,9.2,7,6.6,8.3,0.7,9,3.1,7.2,10,10,8.1
+United States,Wisconsin,9.8,9,8.3,8.6,4.8,8.6,7.2,7.5,10,8.7,8.5
+United States,Wyoming,10,8.3,10,9.2,3.5,10,4.7,5.8,10,9.7,8.1
