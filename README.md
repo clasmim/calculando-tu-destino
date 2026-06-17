@@ -17,9 +17,15 @@ Simply use the sliders to select a value of the corresponding life factor and su
 - Translate
 - Streamlit
 
+## Data and execution:
+All the data collected for this project was directly sourced from OECD and INE. It was then cleaned and processed, it resides in `/csv/`.
+
+In order to run the application locally run the command `streamlit run .\app.py` in a python enviroment with all the necessary libraries.
+
 ## Collaborators:
 Team of 5 formed from university students:
 - Juanjo Fernández
 - Juan López
 - Alejandro Ruiz
 - Álvaro Santafé
+
