@@ -28,4 +28,5 @@ Team of 5 formed from university students:
 - Juan López
 - Alejandro Ruiz
 - Álvaro Santafé
+- Chafik Laslouni
 
